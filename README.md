@@ -4,7 +4,6 @@ In this project, I have analyzed the key indicators to gain insights to improve 
 
 TechStack - Microsoft Power BI, MySQL
 
-Link to [Interactive Dashboard PDF ](file:///C:/Users/NAVNEET%20KUMAR/AppData/Local/Temp/Power%20BI%20Desktop/print-job-34bb9d6f-c646-4a78-aea2-d670aa05b827/Pizza%20Sales%20Project.pdf)
 
 **Key Performance Indicators**
 
